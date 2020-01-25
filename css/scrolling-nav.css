@@ -1,0 +1,95 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+header {
+  padding: 154px 0 100px;
+}
+
+.bg { 
+    background-image: url("../img/bg_v2.png");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@media (min-width: 992px) {
+  header {
+    padding: 156px 0 100px;
+  }
+
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: .9rem;
+    padding-left: .9rem;
+  }
+}
+
+@media (max-width: 442px) {
+  .contribute  a {
+    margin-top: 10px;
+  }
+
+  .social-icons {
+  	margin-bottom: 20px;
+  }
+}
+
+section {
+  padding: 70px 0;
+}
+
+body, p {
+	font-family: 'PT Sans', sans-serif;
+}
+
+h1, h2, h3 {
+	font-family: 'VT323', monospace;
+}
+
+b {
+  font-weight: bold;
+}
+
+.navbar-brand {
+	font-family: 'Bungee Shade', cursive;
+}
+
+.wrapper {
+	text-align: center;
+}
+
+.contribute a {
+	margin-right: 5px;
+	margin-left: 5px;
+}
+
+.py-5 {
+	padding-top: 2rem !important;
+	padding-bottom: 2rem !important;
+}
+
+.social-icons {
+	text-align: center;
+	margin-top: 20px;
+}
+
+.social-icons a {
+	margin-right: 5px;
+	margin-left: 5px;
+}
+
+.portfolio-item {
+	margin-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
